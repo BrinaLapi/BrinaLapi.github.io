@@ -37,11 +37,12 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 48,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.1",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "photos.html": {
@@ -1748,6 +1749,19 @@
             "gallery__filtersBtnStyle": "btn-white",
             "gallery": [
               {
+                "tags": "Music Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019429-856482019-4-3-10-16-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=_gcNOZoJr6I",
+                "image": "@PROJECT_PATH@/assets/images/61734800-334340133818207-3179329826964111360-n-640x359.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61734800-334340133818207-3179329826964111360-n-640x359-640x359.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Clemens - Sledi mi [2019]",
+                "active": true
+              },
+              {
                 "tags": "Series",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019328-189502019-3-0-19-52-8.jpg",
                 "playVideo": true,
@@ -1757,7 +1771,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Reka Ljubezni",
+                "caption": "Reka Ljubezni [2018]",
                 "active": false
               },
               {
@@ -1783,7 +1797,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Mark of The Beast",
+                "caption": "Mark of The Beast [2017]",
                 "active": false
               },
               {
@@ -1796,8 +1810,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Anticoro",
-                "active": true
+                "caption": "Anticoro [2017]",
+                "active": false
               },
               {
                 "tags": "Short Movies",
