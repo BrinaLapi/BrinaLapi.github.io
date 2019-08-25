@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "photos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -589,6 +589,58 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/29141-1-2019-8-683x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29141-1-2019-8-683x1024-683x1024.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Orange Casting",
+                "active": false
+              },
+              {
+                "tags": "Headshots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-11-683x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-11-683x1024-683x1024.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Orange Casting",
+                "active": false
+              },
+              {
+                "tags": "Headshots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-16-683x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-16-683x1024-683x1024.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Orange Casting",
+                "active": false
+              },
+              {
+                "tags": "Headshots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-27-683x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-27-683x1024-683x1024.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Orange Casting",
+                "active": true
+              },
+              {
+                "tags": "Headshots",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/29141-2018-09-29141-1-2-683x897.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/29141-2018-09-29141-1-2-683x897-683x897.jpg",
                 "alt": "",
@@ -648,58 +700,6 @@
                 "customStyle1": "display-7",
                 "caption": "NLB<br>",
                 "active": false
-              },
-              {
-                "tags": "Headshots",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/29141-1-2019-8-683x1024.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29141-1-2019-8-683x1024-683x1024.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Orange Casting",
-                "active": false
-              },
-              {
-                "tags": "Headshots",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-11-683x1024.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-11-683x1024-683x1024.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Orange Casting",
-                "active": false
-              },
-              {
-                "tags": "Headshots",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-16-683x1024.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-16-683x1024-683x1024.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Orange Casting",
-                "active": false
-              },
-              {
-                "tags": "Headshots",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/29141-6-2019-8-27-683x1024.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29141-6-2019-8-27-683x1024-683x1024.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Orange Casting",
-                "active": true
               }
             ]
           }
@@ -1801,6 +1801,19 @@
             "gallery__filtersBtnStyle": "btn-white",
             "gallery": [
               {
+                "tags": "Commercials",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019724-208312019-7-6-20-14-30.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=J-lkThboPsY",
+                "image": "@PROJECT_PATH@/assets/images/69214170-2089817354648344-184497625939050496-n-1366x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/69214170-2089817354648344-184497625939050496-n-1366x768-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Carpetright UK [2019]",
+                "active": true
+              },
+              {
                 "tags": "Music Videos",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019429-856482019-4-3-10-16-16.jpg",
                 "playVideo": true,
@@ -1877,19 +1890,6 @@
                 "customStyle1": "display-7",
                 "caption": "Tito's Third Wish | A short movie<br>",
                 "active": false
-              },
-              {
-                "tags": "Commercials",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019724-208312019-7-6-20-14-30.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=J-lkThboPsY",
-                "image": "@PROJECT_PATH@/assets/images/69214170-2089817354648344-184497625939050496-n-1366x768.png",
-                "thumb": "@PROJECT_PATH@/assets/images/69214170-2089817354648344-184497625939050496-n-1366x768-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Clemens - Sledi mi [2019]",
-                "active": true
               }
             ]
           }
