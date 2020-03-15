@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "photos.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -634,7 +634,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Orange Casting",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Headshots",
@@ -699,7 +699,7 @@
                 "title": "NLB",
                 "customStyle1": "display-7",
                 "caption": "NLB<br>",
-                "active": false
+                "active": true
               }
             ]
           }
@@ -1811,7 +1811,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Carpetright UK [2019]",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Music Videos",
@@ -1890,6 +1890,32 @@
                 "customStyle1": "display-7",
                 "caption": "Tito's Third Wish | A short movie<br>",
                 "active": false
+              },
+              {
+                "tags": "Commercials",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020215-1936272020-2-0-19-38-15.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=wXu3jhMBSK8",
+                "image": "@PROJECT_PATH@/assets/images/gorenje-1-1920x937.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gorenje-1-1920x937-800x390.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Gorenje 70 let [2020]",
+                "active": false
+              },
+              {
+                "tags": "Commercials",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020215-1936272020-2-0-19-39-6.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=RY7vA-P-AHA",
+                "image": "@PROJECT_PATH@/assets/images/gorenje-1-1920x937.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gorenje-1-1920x937-800x390.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Gorenje 70 let [2020]",
+                "active": true
               }
             ]
           }
